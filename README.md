@@ -1,6 +1,6 @@
 # Controle Didático Proporcional - Motor-Encoder
 
-Código para realizar e monitorar o controle proporcional de um motor com encoder.
+Código para realizar e monitorar o controle proporcional da velocidade de um motor com encoder.
 
 ## Status do projeto
 
